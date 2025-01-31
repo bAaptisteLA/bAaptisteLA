@@ -1,9 +1,14 @@
 
 
 
+# Hey there 👋
 
-![Hello world](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/main/banner.gif)
-![Visitor Count](https://komarev.com/ghpvc/?username=bAaptisteLA&color=green)
+![Hello world](https://raw.githubusercontent.com/bAaptisteLA/bAaptisteLA/main/banner.gif)
+
+## Visitor count  
+<img src="https://profile-counter.glitch.me/bAaptisteLA/count.svg" alt="Visitor Count" />
+
+
 
 
 
