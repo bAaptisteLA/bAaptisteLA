@@ -17,16 +17,12 @@
 
 
 
-<div align="center">
-  <div style="display: flex; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=bAaptisteLA&show_icons=true&theme=tokyonight"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bAaptisteLA&layout=compact&theme=tokyonight"/>
-  </div>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bAaptisteLA&repo=skills-introduction-to-github&theme=tokyonight"/>
-</div>
 
+[![bAaptisteLA's GitHub stats](https://github-readme-stats.vercel.app/api?username=bAaptisteLA&show_icons=true&theme=tokyonight)](https://github.com/bAaptisteLA/github-readme-stats) 
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bAaptisteLA&layout=compact&theme=tokyonight)](https://github.com/bAaptisteLA/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bAaptisteLA&repo=bAaptisteLA/skills-introduction-to-github&theme=tokyonight)](https://github.com/bAaptisteLA/github-readme-stats)
 
 
 
