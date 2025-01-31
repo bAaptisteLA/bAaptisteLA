@@ -11,7 +11,8 @@
 
 ![Private Repo Work](https://img.shields.io/badge/Code-Private_Projects-important?style=for-the-badge&logo=github)
 
-![Profile Views](https://img.shields.io/badge/dynamic/json?label=Visitors&query=value&url=https://api.countapi.xyz/hit/bAaptisteLA.github.io/visits)
+![Profile Views](https://komarev.com/ghpvc/?username=bAaptisteLA&color=blue)
+
 
 
 
