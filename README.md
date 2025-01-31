@@ -9,6 +9,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bAaptisteLA&layout=compact&theme=tokyonight)](https://github.com/bAaptisteLA/github-readme-stats)
 
+![Private Repo Work](https://img.shields.io/badge/Code-Private_Projects-important?style=for-the-badge&logo=github)
+
+
 
 
 
