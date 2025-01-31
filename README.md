@@ -2,6 +2,9 @@
 
 
 
+![Hello world](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/main/banner.gif)
+![Visitor Count](https://komarev.com/ghpvc/?username=bAaptisteLA&color=green)
+
 
 
 
