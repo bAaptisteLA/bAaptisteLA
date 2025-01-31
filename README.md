@@ -16,7 +16,7 @@ I’m a passionate tech enthusiast and a student at **Supinfo**, currently explo
 - **Other Interests**: Web Development, Cloud Computing, Machine Learning
 
 ## 🏅 TryHackMe Progress
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/bloryamara.png)](https://tryhackme.com/r/p/bloryamara)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/bloryamara.png)](https://tryhackme.com/p/bloryamara)
 
 
 ## 🚧 Current Projects
