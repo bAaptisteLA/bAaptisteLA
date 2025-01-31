@@ -3,6 +3,7 @@
 
 # Hey there 👋
 <br>
+<br>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=green&center=true&vCenter=true&width=435&lines=Hello+world!;Bienvenue+sur+mon+GitHub!">
 </p>
@@ -20,7 +21,7 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bAaptisteLA&layout=compact&theme=tokyonight)](https://github.com/bAaptisteLA/github-readme-stats)
 
-![Private Repo Work](https://img.shields.io/badge/Code-Private_Projects-important?style=for-the-badge&logo=github)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bAaptisteLA&repo=bAaptisteLA/skills-introduction-to-github&theme=tokyonight)](https://github.com/bAaptisteLA/github-readme-stats)
 
 
 
