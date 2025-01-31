@@ -3,15 +3,14 @@
 
 # Hey there 👋
 
-![Hello world](https://raw.githubusercontent.com/bAaptisteLA/bAaptisteLA/main/banner.gif)
-
-## Visitor count  
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=green&center=true&vCenter=true&width=435&lines=Hello+world!;Bienvenue+sur+mon+GitHub!">
 </p>
 
 
+## Visitor count  
 
+<img src="https://profile-counter.glitch.me/bAaptisteLA/count.svg" alt="Visitor Count" />
 
 
 
