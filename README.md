@@ -1,7 +1,7 @@
 
 
 
-# Hey there 👋
+# Hi everybody 👋
 <br>
 <br>
 <p align="center">
@@ -20,7 +20,11 @@
 
 
 [![bAaptisteLA's GitHub stats](https://github-readme-stats.vercel.app/api?username=bAaptisteLA&show_icons=true&theme=tokyonight)](https://github.com/bAaptisteLA/github-readme-stats) 
-<br>
+<br><br>
+
+## About Me 👨‍💻
+I’m a cybersecurity enthusiast and a student at **Supinfo**, always eager to learn new things and solve complex challenges. My interests go beyond security, and I love exploring various areas of tech, from web development to AI. Currently, I'm diving deep into **ethical hacking** and **CTF** challenges. Let’s connect!
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bAaptisteLA&layout=compact&theme=tokyonight)](https://github.com/bAaptisteLA/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bAaptisteLA&repo=bAaptisteLA/skills-introduction-to-github&theme=tokyonight)](https://github.com/bAaptisteLA/github-readme-stats) --!>
