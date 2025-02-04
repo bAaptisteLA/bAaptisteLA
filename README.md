@@ -12,7 +12,7 @@ I’m a passionate tech enthusiast and a student at **Supinfo**, currently explo
 - **Operating Systems**: Linux, Windows (CMD, PowerShell basics)
 - **Virtualization**: Experience with setting up and managing Virtual Machines (VMs)
 - **Cybersecurity**: Basic knowledge in **Penetration Testing**, Vulnerability Scanning
-- **Development Tools**: VSCode, Kali Linux, Metasploit, Burp Suite
+- **Development Tools**: VSCode, Kali Linux, Metasploit
 - **Other Interests**: Web Development, Cloud Computing, Machine Learning
 
 ## 🏅 TryHackMe Progress
