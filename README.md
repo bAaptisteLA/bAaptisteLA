@@ -25,6 +25,7 @@ I’m a passionate tech enthusiast and a student at **Supinfo**, currently explo
 
 ## Need Advice? 💬
 I’m always looking to improve and expand my knowledge in cybersecurity. If you have any recommendations or advice, drop me a message! I’d love to learn from you.
+Bb_lorY_A@proton.me
 
 ## Visitor count 
 <img src="https://profile-counter.glitch.me/bAaptisteLA/count.svg" alt="Visitor Count" />
